@@ -11,7 +11,7 @@ Comprende y aplica los conceptos básicos de lógica matemática, relaciones, gr
 5. Teoría de grafos.
 6. Árboles y redes.
 
-## Lecturas:
+## Lecturas
 
 ## Notebook
 
