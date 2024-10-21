@@ -13,6 +13,7 @@ Comprende y aplica los conceptos básicos de lógica matemática, relaciones, gr
 
 ## Lecturas
 Video
+
 Notas
 
 ## Notebook
