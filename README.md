@@ -12,6 +12,8 @@ Comprende y aplica los conceptos básicos de lógica matemática, relaciones, gr
 6. Árboles y redes.
 
 ## Lecturas
+Video
+Notas
 
 ## Notebook
 
