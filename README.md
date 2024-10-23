@@ -12,9 +12,9 @@ Comprende y aplica los conceptos básicos de lógica matemática, relaciones, gr
 6. Árboles y redes.
 
 ## Lecturas
-Video
++ Video
 
-Notas
++ [Notas](https://github.com/angelarmenta/matematicas_discretas/tree/main/notas)
 
 ## Notebook
 Unidad 1:
